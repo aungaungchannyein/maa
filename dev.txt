@@ -1,6 +1,1 @@
-<<<<<<< HEAD
-this is dev1
-=======
-this is dev2.
-are you happy.
->>>>>>> e3bbad2f197519400a916e351f8241c96fcc0c8b
+this is dev1.
